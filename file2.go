@@ -3,4 +3,4 @@
 package file2
  
 // Exported variable
-var AnotherExportedVariable = "Greetings from file2 again!"
+var AnotherExportedVariable = "Greetings from file2 again|!"
